@@ -1,0 +1,1621 @@
+fileFormatVersion: 2
+guid: 70cdce016a0ce35439c639e83d53a37e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9018007563234527824
+    second: chucnang_2_0
+  - first:
+      213: -3410389864645729891
+    second: chucnang_2_1
+  - first:
+      213: -3349248334418521958
+    second: chucnang_2_2
+  - first:
+      213: -3267773900532416766
+    second: chucnang_2_3
+  - first:
+      213: 8040399659100917093
+    second: chucnang_2_4
+  - first:
+      213: -2024086028945715382
+    second: chucnang_2_5
+  - first:
+      213: 2915651180526766483
+    second: chucnang_2_6
+  - first:
+      213: -3336609101467167784
+    second: chucnang_2_7
+  - first:
+      213: -3977792757248925498
+    second: chucnang_2_8
+  - first:
+      213: -8905703191943920900
+    second: chucnang_2_9
+  - first:
+      213: -8693451727875164712
+    second: chucnang_2_10
+  - first:
+      213: 7501284494538076276
+    second: chucnang_2_11
+  - first:
+      213: -8394305209661870406
+    second: chucnang_2_12
+  - first:
+      213: 8699017752300542176
+    second: chucnang_2_13
+  - first:
+      213: 2848433231956336518
+    second: chucnang_2_14
+  - first:
+      213: -4640245837771822708
+    second: chucnang_2_15
+  - first:
+      213: -3442167266685555355
+    second: chucnang_2_16
+  - first:
+      213: -3153945694490801136
+    second: chucnang_2_17
+  - first:
+      213: -863852042910704664
+    second: chucnang_2_18
+  - first:
+      213: 5496754499700511317
+    second: chucnang_2_19
+  - first:
+      213: -756007514103410162
+    second: chucnang_2_20
+  - first:
+      213: 3876109640190857914
+    second: chucnang_2_21
+  - first:
+      213: 3859769647002539852
+    second: chucnang_2_22
+  - first:
+      213: 8649512352013690107
+    second: chucnang_2_23
+  - first:
+      213: -5536980835718210139
+    second: chucnang_2_24
+  - first:
+      213: -6560423966046561059
+    second: chucnang_2_25
+  - first:
+      213: 962930773840540012
+    second: chucnang_2_26
+  - first:
+      213: -8199518489118248918
+    second: chucnang_2_27
+  - first:
+      213: -4653835798691602011
+    second: chucnang_2_28
+  - first:
+      213: 1169876367046310681
+    second: chucnang_2_29
+  - first:
+      213: -430770071730572484
+    second: chucnang_2_30
+  - first:
+      213: -3185598877411863707
+    second: chucnang_2_31
+  - first:
+      213: 4706166939632146934
+    second: chucnang_2_32
+  - first:
+      213: -7135073549766388597
+    second: chucnang_2_33
+  - first:
+      213: -2442190327784218334
+    second: chucnang_2_34
+  - first:
+      213: 763006586048965028
+    second: chucnang_2_35
+  - first:
+      213: -6523938502811962918
+    second: chucnang_2_36
+  - first:
+      213: 3154295496883104947
+    second: chucnang_2_37
+  - first:
+      213: -6846494505382210017
+    second: chucnang_2_38
+  - first:
+      213: 1630506973546396821
+    second: chucnang_2_39
+  - first:
+      213: -6475972591407048459
+    second: chucnang_2_40
+  - first:
+      213: -3456157921249018438
+    second: chucnang_2_41
+  - first:
+      213: 7936311585323270200
+    second: chucnang_2_42
+  - first:
+      213: 5076305453290108491
+    second: chucnang_2_43
+  - first:
+      213: -7689124975806409811
+    second: chucnang_2_44
+  - first:
+      213: 5398743011833911171
+    second: chucnang_2_45
+  - first:
+      213: -2712780544625723314
+    second: chucnang_2_46
+  - first:
+      213: -1504365036318024091
+    second: chucnang_2_47
+  - first:
+      213: 4827985219039584593
+    second: chucnang_2_48
+  - first:
+      213: 4002071623974397714
+    second: chucnang_2_49
+  - first:
+      213: 1333675174513277256
+    second: chucnang_2_50
+  - first:
+      213: 3426128303364402177
+    second: chucnang_2_51
+  - first:
+      213: -5202981068777520231
+    second: chucnang_2_52
+  - first:
+      213: -2052686559293985020
+    second: chucnang_2_53
+  - first:
+      213: -7457184703421544706
+    second: chucnang_2_54
+  - first:
+      213: -7021295099847561552
+    second: chucnang_2_55
+  - first:
+      213: 4546433713322010529
+    second: chucnang_2_56
+  - first:
+      213: 2209147639487085448
+    second: chucnang_2_57
+  - first:
+      213: 611885273675990898
+    second: chucnang_2_58
+  - first:
+      213: -5481069774779592897
+    second: chucnang_2_59
+  - first:
+      213: -6343030477243404519
+    second: chucnang_2_60
+  - first:
+      213: -7220447287610583296
+    second: chucnang_2_61
+  - first:
+      213: 6043937928959430031
+    second: chucnang_2_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chucnang_2_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 338
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5be9396e999d280800000000000000
+      internalID: -9018007563234527824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 338
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e234bc7cdba0d0800000000000000
+      internalID: -3410389864645729891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a905a6a82641581d0800000000000000
+      internalID: -3349248334418521958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 336
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff87c63f886a2d0800000000000000
+      internalID: -3267773900532416766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 335
+        width: 102
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc1ecd3ec359f60800000000000000
+      internalID: 8040399659100917093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 336
+        width: 100
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0cd11b7009e3e0800000000000000
+      internalID: -2024086028945715382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 336
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990f380d49767820800000000000000
+      internalID: 2915651180526766483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 291
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d6b843bbf1b1d0800000000000000
+      internalID: -3336609101467167784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 282
+        width: 136
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c06e02009a0cc8c0800000000000000
+      internalID: -3977792757248925498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 261
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ce11a126986480800000000000000
+      internalID: -8905703191943920900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 259
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5beff96b7aa5780800000000000000
+      internalID: -8693451727875164712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 261
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707618118ae91860800000000000000
+      internalID: 7501284494538076276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 261
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea4e103ef618b80800000000000000
+      internalID: -8394305209661870406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 262
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8d0bc6e8e19b870800000000000000
+      internalID: 8699017752300542176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 261
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fdc2dceeaa78720800000000000000
+      internalID: 2848433231956336518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 261
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892021eef88a9fb0800000000000000
+      internalID: -4640245837771822708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_16
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 275
+        width: 147
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56deabbbb17fa30d0800000000000000
+      internalID: -3442167266685555355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc007e91fea34d0800000000000000
+      internalID: -3153945694490801136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 226
+        width: 145
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebdfc3d42bf204f0800000000000000
+      internalID: -863852042910704664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_19
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 227
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dd2c2815684c40800000000000000
+      internalID: 5496754499700511317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 192
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e021752eb2f1285f0800000000000000
+      internalID: -756007514103410162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 133
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21b066e25bac530800000000000000
+      internalID: 3876109640190857914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 199
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47db644b08a09530800000000000000
+      internalID: 3859769647002539852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 197
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4212638ad390870800000000000000
+      internalID: 8649512352013690107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 197
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5addede1441b823b0800000000000000
+      internalID: -5536980835718210139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 199
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd5d75921b4f4a0800000000000000
+      internalID: -6560423966046561059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_26
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 197
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61be0edf640d5d00800000000000000
+      internalID: 962930773840540012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_27
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 197
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fbd68065753e80800000000000000
+      internalID: -8199518489118248918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_28
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 200
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1adf78ff04a6fb0800000000000000
+      internalID: -4653835798691602011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_29
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 179
+        width: 155
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b7be88b5c3c3010800000000000000
+      internalID: 1169876367046310681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 143
+        width: 103
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3331aee6e8950af0800000000000000
+      internalID: -430770071730572484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 134
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5639bf2f2ba7ac3d0800000000000000
+      internalID: -3185598877411863707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 134
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91672b5e9af4140800000000000000
+      internalID: 4706166939632146934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_33
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 134
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8493e3e8602bfc90800000000000000
+      internalID: -7135073549766388597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_34
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 134
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e68e06d89b1ed0800000000000000
+      internalID: -2442190327784218334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 137
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96bba827eb69a00800000000000000
+      internalID: 763006586048965028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 134
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1366b3f705675a0800000000000000
+      internalID: -6523938502811962918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_37
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 132
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce450da0f46cb20800000000000000
+      internalID: 3154295496883104947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_38
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 133
+        width: 153
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16970a858d5cf0a0800000000000000
+      internalID: -6846494505382210017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb7022479b0a610800000000000000
+      internalID: 1630506973546396821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 94
+        width: 105
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f854024d39b026a0800000000000000
+      internalID: -6475972591407048459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 87
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdbc40aea24900d0800000000000000
+      internalID: -3456157921249018438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 87
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c206a651732e60800000000000000
+      internalID: 7936311585323270200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463cb21ae8a27640800000000000000
+      internalID: 5076305453290108491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_44
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 87
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3997fb29dba4590800000000000000
+      internalID: -7689124975806409811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 63
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879bfd5a203cea40800000000000000
+      internalID: 5398743011833911171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_46
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 93
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483ef3b7744a5ad0800000000000000
+      internalID: -2712780544625723314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 63
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e1fbd48fb6f1be0800000000000000
+      internalID: -1504365036318024091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 60
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e0b91af2700340800000000000000
+      internalID: 4827985219039584593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 59
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172aa820f63a8730800000000000000
+      internalID: 4002071623974397714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 57
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849fe9e418a228210800000000000000
+      internalID: 1333675174513277256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_51
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 58
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c62fc1a8d0c8f20800000000000000
+      internalID: 3426128303364402177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_52
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 58
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9930f66d84c4bc7b0800000000000000
+      internalID: -5202981068777520231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_53
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 85
+        width: 150
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f201e23746383e0800000000000000
+      internalID: -2052686559293985020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60518a502c28890800000000000000
+      internalID: -7457184703421544706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 45
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be256e9e495f8e90800000000000000
+      internalID: -7021295099847561552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_56
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 42
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a72b6dcf5d281f30800000000000000
+      internalID: 4546433713322010529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 42
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3504d21878ae10800000000000000
+      internalID: 2209147639487085448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 42
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27700cc1a6add7800800000000000000
+      internalID: 611885273675990898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_59
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 42
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc12d64145fe3b0800000000000000
+      internalID: -5481069774779592897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_60
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 38
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2e64436709f7a0800000000000000
+      internalID: -6343030477243404519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_61
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 36
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d98e8271dbcb90800000000000000
+      internalID: -7220447287610583296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chucnang_2_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0324368160e350800000000000000
+      internalID: 6043937928959430031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

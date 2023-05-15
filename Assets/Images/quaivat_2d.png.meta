@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: b23f8931c2d531b43a39404b95bc6891
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9032550408057051592
+    second: quaivat_2d_0
+  - first:
+      213: -3793253194579605622
+    second: quaivat_2d_1
+  - first:
+      213: -432547608231075486
+    second: quaivat_2d_2
+  - first:
+      213: -7073473561694361987
+    second: quaivat_2d_3
+  - first:
+      213: 3319370372472690846
+    second: quaivat_2d_4
+  - first:
+      213: 1885479718891562974
+    second: quaivat_2d_5
+  - first:
+      213: -1157205710895086312
+    second: quaivat_2d_6
+  - first:
+      213: -1400076954911940691
+    second: quaivat_2d_7
+  - first:
+      213: -6945823851433582252
+    second: quaivat_2d_8
+  - first:
+      213: 7449369414998532848
+    second: quaivat_2d_9
+  - first:
+      213: -6679544506928712753
+    second: quaivat_2d_10
+  - first:
+      213: -6381482302388561512
+    second: quaivat_2d_11
+  - first:
+      213: -7226999422132660667
+    second: quaivat_2d_12
+  - first:
+      213: 7202455737220336787
+    second: quaivat_2d_13
+  - first:
+      213: 6838192803058139538
+    second: quaivat_2d_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quaivat_2d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9dc085db01a5d70800000000000000
+      internalID: 9032550408057051592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 937
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8787f92158ab5bc0800000000000000
+      internalID: -3793253194579605622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 937
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26121f6fd384ff9f0800000000000000
+      internalID: -432547608231075486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 737
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762713c549f5dd90800000000000000
+      internalID: -7073473561694361987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 737
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98d03954c5c01e20800000000000000
+      internalID: 3319370372472690846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 737
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed72cbb80d19a2a10800000000000000
+      internalID: 1885479718891562974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158b0e7987c0ffe0800000000000000
+      internalID: -1157205710895086312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 537
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf534c6d6de19ce0800000000000000
+      internalID: -1400076954911940691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 537
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451add6f10a7b9f90800000000000000
+      internalID: -6945823851433582252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a5a5b30a716760800000000000000
+      internalID: 7449369414998532848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 337
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33a1329ad7d43a0800000000000000
+      internalID: -6679544506928712753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 337
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89910b118ab6077a0800000000000000
+      internalID: -6381482302388561512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54654dbd05a84bb90800000000000000
+      internalID: -7226999422132660667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c0e7f255344f360800000000000000
+      internalID: 7202455737220336787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quaivat_2d_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 137
+        width: 170
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c9e3cf1426ee50800000000000000
+      internalID: 6838192803058139538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

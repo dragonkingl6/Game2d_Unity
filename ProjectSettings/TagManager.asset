@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - quaivat
+  - tien
+  - boss
+  - tran
+  - san
+  - co
+  - thienThach
+  - cupWin
+  - ong
+  - kcXanh
+  - kcXanhLa
+  - kcDo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: mu
+    uniqueID: 1473240531
+    locked: 0
+  - name: may troi 1
+    uniqueID: 1106846913
+    locked: 0
+  - name: maytroi
+    uniqueID: 3280789321
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: nui
+    uniqueID: 2723060339
+    locked: 0
